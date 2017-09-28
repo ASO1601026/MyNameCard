@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">My NameCard</string>
-    <string name="ニックネーム" />
-    <string name="tapHere">ニックネーム</string>
+    <string name="にっくねーむ" />
+    <string name="tapHere">にっくねーむ</string>
     <string name="name">森 唯人</string>
-    <string name="あだ名">tapHere</string>
+    <string name="にっくねーむ">tapHere</string>
 </resources>
